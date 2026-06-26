@@ -66,7 +66,7 @@ O fio condutor não é um *stack*: é **reduzir incerteza em produção** com ar
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=EarthW0rm&show_icons=true&count_private=true&theme=dracula&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.demolab.com?user=EarthW0rm&theme=dracula&hide_border=true" alt="GitHub streak" />
+<img height="165" src="https://streak-stats.demolab.com?user=EarthW0rm&theme=dracula&hide_border=true" alt="GitHub streak" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EarthW0rm&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top languages" />
 
