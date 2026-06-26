@@ -84,6 +84,33 @@ O fio condutor não é um *stack*: é **reduzir incerteza em produção** com ar
 
 ---
 
+## 💼 Portfólio
+
+Portfólio vivo — o que estou construindo agora, *side projects* e experimentos.
+
+### 🚧 No momento
+
+<div align="center">
+
+<a href="https://github.com/EarthW0rm/trayops">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EarthW0rm&repo=trayops&theme=dracula&hide_border=true" alt="TrayOps" />
+</a>
+
+</div>
+
+**[TrayOps](https://github.com/EarthW0rm/trayops)** · `Swift 6.3` · `SPM` · `macOS`
+
+Plataforma pessoal de *menu-bar* (tray) para macOS onde cada rotina de máquina é uma **Function** plugável de primeira classe — mostra o **estado** atual, dispara **ações**, atualiza estados periodicamente e expõe um **Reconcile All** global. Toda interação visual tem **comando CLI equivalente**.
+
+- **Functions**: troca de identidade GitHub (git `user.name` + `IdentityFile` SSH ativo) e controle do Docker (Rancher Desktop).
+- **Arquitetura**: *core* UI-agnostic exposto por um **Mediator (command bus)**; GUI e CLI são frontends intercambiáveis do mesmo serviço, sem lógica de negócio própria.
+
+### 🧪 Side projects & diversões
+
+Mais experimentos a caminho. Acompanhe em [repositórios](https://github.com/EarthW0rm?tab=repositories).
+
+---
+
 ## 🤝 Conectar
 
 <div align="center">
